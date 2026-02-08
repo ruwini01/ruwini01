@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Ruwini%20Tharanga&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%">
-
-<h3>Software Engineering Undergraduate | Full Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c97a46,50:a93939,100:d75537&height=220&section=header&text=Ruwini%20Tharanga&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate&descAlignY=55&descAlign=50" width="100%">
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://ruwini-tharanga.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c97a46?style=for-the-badge&logo=vercel&logoColor=white)](https://ruwini-tharanga.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruwini-tharanga)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruwini0213@gmail.com)
+[![Email](https://img.shields.io/badge/Email-a93939?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruwini0213@gmail.com)
 
 </div>
 
@@ -107,8 +105,8 @@ AI-based semantic hotel search platform with secure payment gateway and real-tim
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/LuxStay)
-[![View Code](https://img.shields.io/badge/View_Code-764ba2?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/LuxStay)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-c97a46?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/LuxStay)
+[![View Code](https://img.shields.io/badge/View_Code-a93939?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/LuxStay)
 
 </td>
 <td width="50%">
@@ -135,8 +133,8 @@ Automated code analysis with AI-powered bug detection, security analysis, and au
 <br>
 <br>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-f093fb?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/CodeReviewAI)
-[![View Code](https://img.shields.io/badge/View_Code-f5576c?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/CodeReviewAI)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-d75537?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/CodeReviewAI)
+[![View Code](https://img.shields.io/badge/View_Code-c97a46?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/CodeReviewAI)
 
 </td>
 </tr>
@@ -165,7 +163,7 @@ Mobile marketplace for University of Vavuniya students to buy, sell, and find it
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[![View Code](https://img.shields.io/badge/View_Code-4facfe?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/CampusCart)
+[![View Code](https://img.shields.io/badge/View_Code-a93939?style=for-the-badge&logoColor=white)](https://github.com/ruwini01/CampusCart)
 
 </td>
 <td width="50%">
@@ -174,7 +172,7 @@ Mobile marketplace for University of Vavuniya students to buy, sell, and find it
 
 Explore more of my work on GitHub:
 
-[![GitHub](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruwini01?tab=repositories)
+[![GitHub](https://img.shields.io/badge/View_All_Projects-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruwini01?tab=repositories)
 
 **Other Notable Projects:**
 - 🌐 **Portfolio Website** - Personal portfolio built with React & TailwindCSS
@@ -191,9 +189,9 @@ Explore more of my work on GitHub:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruwini01&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFA500&currStreakLabel=FFD700)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruwini01&theme=dark&hide_border=true&background=0d1117&ring=c97a46&fire=d75537&currStreakLabel=a93939&sideNums=c97a46&dates=888888)
 
-[![Ruwini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruwini01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFA500&point=FFD700)](https://github.com/ruwini01)
+[![Ruwini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruwini01&theme=github-dark&hide_border=true&bg_color=0d1117&color=c97a46&line=a93939&point=d75537)](https://github.com/ruwini01)
 
 </div>
 
@@ -227,17 +225,15 @@ GCE A/L – Common Stream
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d75537,50:a93939,100:c97a46&height=150&section=footer&text=Let's%20Connect%20&%20Collaborate&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%">
 
-### 💬 Let's Connect & Collaborate
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FFD700?style=for-the-badge&logoColor=black)](https://ruwini-tharanga.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-c97a46?style=for-the-badge&logoColor=white)](https://ruwini-tharanga.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/ruwini-tharanga)
-[![Email](https://img.shields.io/badge/📧_ruwini0213@gmail.com-EA4335?style=for-the-badge)](mailto:ruwini0213@gmail.com)
+[![Email](https://img.shields.io/badge/📧_ruwini0213@gmail.com-a93939?style=for-the-badge)](mailto:ruwini0213@gmail.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ruwini01&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ruwini01&color=c97a46&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
