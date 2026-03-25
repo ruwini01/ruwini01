@@ -18,7 +18,7 @@
 const ruwini = {
     currentRole: "Software Engineering Undergraduate",
     university: "University of Jaffna",
-    status: "Seeking Software Engineer Internship 🚀",
+    status: "Intern Software Engineer",
     interests: ["AI Integration", "Full Stack Development", "Clean Architecture"],
     currentlyLearning: ["Advanced Spring Boot", "AI Integration", "Cloud Technologies"],
     goals: "Building innovative solutions that make a difference"
