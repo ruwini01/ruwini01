@@ -12,7 +12,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const ruwini = {
@@ -27,18 +27,18 @@ const ruwini = {
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **Final-year BSc (Hons) in Information Technology** at University of Jaffna  
-💼 **Practical experience** in designing, developing, and maintaining software applications  
-🌱 **Strong foundation** in OOP, data structures, algorithms, and software engineering principles  
-🎯 **Passionate about** building scalable applications, clean code, and solving real-world problems  
-📚 **Motivated learner** with strong problem-solving and analytical skills  
-🤝 **Team player** with effective communication and collaboration abilities
+**Final-year BSc (Hons) in Information Technology** at University of Jaffna  
+**Practical experience** in designing, developing, and maintaining software applications  
+**Strong foundation** in OOP, data structures, algorithms, and software engineering principles  
+**Passionate about** building scalable applications, clean code, and solving real-world problems  
+**Motivated learner** with strong problem-solving and analytical skills  
+**Team player** with effective communication and collaboration abilities
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -76,7 +76,7 @@ const ruwini = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -89,10 +89,10 @@ const ruwini = {
 AI-based semantic hotel search platform with secure payment gateway and real-time booking system.
 
 **🎯 Key Features:**
-- 🤖 AI-powered semantic search
-- 💳 Stripe payment gateway
-- 🔐 Clerk authentication
-- 🏗️ Clean Architecture
+- AI-powered semantic search
+- Stripe payment gateway
+- Clerk authentication
+- Clean Architecture
 
 **Tech Stack:**
 
@@ -118,10 +118,10 @@ AI-based semantic hotel search platform with secure payment gateway and real-tim
 Automated code analysis with AI-powered bug detection, security analysis, and auto-fix capabilities.
 
 **🎯 Key Features:**
-- 🐛 Bug & security analysis
-- 🔧 Auto-fix errors
-- 📊 Code quality metrics
-- 🏗️ Three-tier architecture
+- Bug & security analysis
+- Auto-fix errors
+- Code quality metrics
+- Three-tier architecture
 
 **Tech Stack:**
 
@@ -149,11 +149,11 @@ Automated code analysis with AI-powered bug detection, security analysis, and au
 Mobile marketplace for University of Vavuniya students to buy, sell, and find items.
 
 **🎯 Key Features:**
-- 🛒 Buy & Sell marketplace
-- 🔍 Lost & Found reporting
-- 🏠 Accommodation listings
-- 🎓 OCR-based ID validation
-- 🔐 JWT authentication
+- Buy & Sell marketplace
+- Lost & Found reporting
+- Accommodation listings
+- OCR-based ID validation
+- JWT authentication
 
 **Tech Stack:**
 
@@ -197,27 +197,27 @@ Explore more of my work on GitHub:
 
 ---
 
-## 🎓 Education
+## Education
 
-**🎯 Bachelor of Science (Hons) in Information Technology**  
+**Bachelor of Science (Hons) in Information Technology**  
 *University of Jaffna | 2022 – 2026*  
-📊 Current GPA: **3.77**
+Current GPA: **3.77**
 
-**💻 Certificate Course in Java Application Development**  
+**Certificate Course in Java Application Development**  
 *NIBM | 2021 – 2022*
 
-**🏫 St. Paul's Girls' School – Milagiriya, Colombo**  
+**St. Paul's Girls' School – Milagiriya, Colombo**  
 *2007 – 2020*  
 GCE A/L – Common Stream
 
 ---
 
-## 🌱 Community Involvement
+## Community Involvement
 
 <img align="right" alt="Community" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🎯 **Executive Committee Member** – Membership Development Team, IEEE (2024)
-- 💻 **Active Member** – Information Technology & Computing Society (ITCS)
+- **Executive Committee Member** – Membership Development Team, IEEE (2024)
+- **Active Member** – Information Technology & Computing Society (ITCS)
 
 <br clear="right"/>
 
